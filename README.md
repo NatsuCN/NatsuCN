@@ -1,4 +1,4 @@
-# Hello....? World.....? Can you hear me——————————————————?
+# Hello....? World.....? Can you hear me————?
 
 
 [![Natsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=CuteNatsu)](https://github.com/anuraghazra/github-readme-stats)
