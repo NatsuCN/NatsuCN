@@ -7,5 +7,5 @@
 [<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=CuteNatsu" /> </div>](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
 [<img height="26" src="https://shields.io/badge/Twitter-ffffff.svg?style=flat-square&logo=twitter" alt="Twitter" />](https://twitter.com/NatsuCN0810)
-[<img height="26" src="https://shields.io/badge/Twitter-ffffff.svg?style=flat-square&logo=telegram" alt="Telegram" />](https://t.me/CuteNatsu)
+[<img height="26" src="https://shields.io/badge/Telegram-ffffff.svg?style=flat-square&logo=telegram" alt="Telegram" />](https://t.me/CuteNatsu)
 
